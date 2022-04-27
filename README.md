@@ -30,6 +30,7 @@
 <br />
 <br />
 
+# GitHub Statistics
 <details>
   <summary>:zap: GitHub Stats</summary>
 
