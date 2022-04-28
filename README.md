@@ -47,6 +47,6 @@
 
   <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidramwaseem&layout=compact&theme=gruvbox" width="350" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidramwaseem&layout=compact&theme=gruvbox" width="350" style="margin-top:30px" />
 
 </details>
