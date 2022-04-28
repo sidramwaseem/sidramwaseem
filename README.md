@@ -1,10 +1,10 @@
-# Hi there, I'm Sidra - Undergrad Software Engineering 👩🏻‍💻
+# Hi there, I'm Sidra - Undergrad Software Engineer 👩🏻‍💻
 
 - I’m currently learning React.
 - My interests revolve around Web development and Application development.
-- 2022 Goals: Be proficient in React development + get started with Game development
-- Random fact: I doodle (A LOT!).
-- Some other tech areas I find fascinating:
+- 2022 Goals: Be proficient in React development + get started with App development
+- Random fact: I doodle (A LOT!).✍🏻
+- Some other tech areas I find fascinating:✨
   - Virtual/Augmented Reality
   - Metaverse
   - Game development
