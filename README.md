@@ -1,9 +1,14 @@
-# Hi there, I'm Sidra - Undergrad Software Engineering 👋
+# Hi there, I'm Sidra - Undergrad Software Engineering 👩🏻‍💻
 
-- 🌱 I’m currently learning React.
-- 👯 My interests revolve around Web development and Game development.
-- 🥅 2022 Goals: Be proficient in React development + get started with Game development
-- ⚡ Random fact: I doodle (A LOT!).
+- I’m currently learning React.
+- My interests revolve around Web development and Application development.
+- 2022 Goals: Be proficient in React development + get started with Game development
+- Random fact: I doodle (A LOT!).
+- Some other tech areas I find fascinating:
+  - Virtual/Augmented Reality
+  - Metaverse
+  - Game development
+  - Cloud Computing
 
 ### Connect with me:
 
@@ -31,9 +36,17 @@
 <br />
 
 # GitHub Statistics
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="sidramwaseem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sidramwaseem&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<br>
+
+  <hr>
+
+  <br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidramwaseem&layout=compact&theme=gruvbox" width="350" />
 
 </details>
