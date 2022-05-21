@@ -50,5 +50,5 @@
 
 
 ### Profile Views
-<img src="https://komarev.com/ghpvc/?username=sidramwaseem&label=Profile%20views&color=0e75b6&style=flat" alt="sidramwaseem" /> 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidramwaseem&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
 
