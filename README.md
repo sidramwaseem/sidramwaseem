@@ -48,6 +48,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidramwaseem&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="sidramwaseem's streak stats" /></p>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=sidramwaseem&label=Profile%20views&color=0e75b6&style=flat"
-    alt="sidramwaseem" /> 
-  </p>
+
+### Profile Views
+<img src="https://komarev.com/ghpvc/?username=sidramwaseem&label=Profile%20views&color=0e75b6&style=flat" alt="sidramwaseem" /> 
+
