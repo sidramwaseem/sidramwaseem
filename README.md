@@ -1,7 +1,7 @@
 # Hi there, I'm Sidra - Undergrad Software Engineer 👩🏻‍💻
 
 
-<img src="./img/codePic.jpg" align="right" width="300px"/>
+<img src="./img/codePic.jpg" align="right" width="290px"/>
 
 <div align="left">
 
