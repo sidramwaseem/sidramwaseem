@@ -17,12 +17,13 @@
 
 </div>
 
-## Connect with me:
-
-[![website](./img/twitter.png)](https://twitter.com/sidramwaseem#gh-light-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin.png)](https://linkedin.com/in/sidramwaseem#gh-light-mode-only)
-&nbsp;&nbsp;
+## Find me at:
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/sidramwaseem/)](https://github.com/sidramwaseem/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sidramwaseem/)](https://www.linkedin.com/in/sidramwaseem)
+[![Twitter Badge](https://img.shields.io/badge/-twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/sidramwaseem/)](https://twitter.com/sidramwaseem)
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/sidramwaseem)](https://www.hackerrank.com/sidramwaseem)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/15072792/sidramwaseem)](https://stackoverflow.com/users/15072792/sidramwaseem)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sidraw24@gmail.com)](mailto:sidraw24@gmail.com)
 
 ## Languages and Tools:
 
@@ -42,6 +43,12 @@
 <br />
 <br />
 
+## Stackoverflow Reputation 
+
+<p align="center">
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=15072792&theme=dark" height="250">
+  </p>
+
 # GitHub Statistics
 
 <div align="center">
@@ -53,5 +60,5 @@
 </div>
 
 
-### Profile Views
-<img src="https://komarev.com/ghpvc/?username=sidramwaseem&label=Profile%20views&color=0e75b6&style=flat" alt="sidramwaseem's profile views" /> 
+### Visitor's Count
+<img src="https://profile-counter.glitch.me/sidramwaseem/count.svg" />
