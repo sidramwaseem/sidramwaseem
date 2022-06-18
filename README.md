@@ -1,14 +1,21 @@
 # Hi there, I'm Sidra - Undergrad Software Engineer 👩🏻‍💻
 
-- I’m currently learning React.
-- My interests revolve around Web development and Application development.
-- 2022 Goals: Be proficient in React development + get started with App development
-- Random fact: I doodle (A LOT!).✍🏻
-- Some other tech areas I find fascinating:✨
-  - Virtual/Augmented Reality
-  - Metaverse
-  - Game development
-  - Cloud Computing
+<div>
+
+<img src="./img/codePic.jpg" align="right"/>
+
+<div align="left">
+  - I’m currently learning React.
+  - My interests revolve around Web development and Application development.
+  - 2022 Goals: Be proficient in React development + get started with App development
+  - Random fact: I doodle (A LOT!).✍🏻
+  - Some other tech areas I find fascinating:✨
+    - Virtual/Augmented Reality
+    - Metaverse
+    - Game development
+    - Cloud Computing
+</div>
+</div>
 
 ### Connect with me:
 
@@ -40,9 +47,9 @@
 
 # GitHub Statistics
 
-
   <img align="left" alt="sidramwaseem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sidramwaseem&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
+<<<<<<< Updated upstream
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidramwaseem&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="350" style="margin-top:60px" />
 
@@ -51,3 +58,6 @@
 
 ### Profile Views
 <img src="https://komarev.com/ghpvc/?username=sidramwaseem&label=Profile%20views&color=0e75b6&style=flat" alt="sidramwaseem's profile views" /> 
+=======
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidramwaseem&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="350" style="margin-top:60px" />
+>>>>>>> Stashed changes
