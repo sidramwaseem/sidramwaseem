@@ -19,14 +19,14 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/sidramwaseem#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/sidramwaseem#gh-dark-mode-only)
+[![website](./img/twitter.png)](https://twitter.com/sidramwaseem#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/sidramwaseem#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sidramwaseem#gh-dark-mode-only)
+[![website](./img/linkedin.png)](https://linkedin.com/in/sidramwaseem#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/sidramwaseem#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/sidramwaseem#gh-dark-mode-only)
+[![website](./img/stackoverflow.png)](https://stackoverflow.com/users/15072792/sidramwaseem)
+&nbsp;&nbsp;
+[![website](./img/hackerrank.png)](https://www.hackerrank.com/sidramwaseem)
+
 
 ### Languages and Tools:
 
