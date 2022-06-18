@@ -3,6 +3,7 @@
 
 <img src="./img/codePic.jpg" align="right"/>
 
+<div align="left">
 
   - I’m currently learning React.
   - My interests revolve around Web development and Application development.
@@ -14,7 +15,7 @@
     - Game development
     - Cloud Computing
 
-
+</div>
 
 ### Connect with me:
 
