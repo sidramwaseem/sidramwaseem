@@ -1,10 +1,9 @@
 # Hi there, I'm Sidra - Undergrad Software Engineer 👩🏻‍💻
 
-<div>
 
 <img src="./img/codePic.jpg" align="right"/>
 
-<div align="left">
+
   - I’m currently learning React.
   - My interests revolve around Web development and Application development.
   - 2022 Goals: Be proficient in React development + get started with App development
@@ -14,8 +13,8 @@
     - Metaverse
     - Game development
     - Cloud Computing
-</div>
-</div>
+
+
 
 ### Connect with me:
 
@@ -23,7 +22,7 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin.png)](https://linkedin.com/in/sidramwaseem#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/stackoverflow.png) width="20px"](https://stackoverflow.com/users/15072792/sidramwaseem)
+[![website](./img/stackoverflow.png)](https://stackoverflow.com/users/15072792/sidramwaseem)
 &nbsp;&nbsp;
 [![website](./img/hackerrank.png)](https://www.hackerrank.com/sidramwaseem)
 
