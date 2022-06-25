@@ -61,7 +61,11 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=sidramwaseem&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="100%"/>
 </div>
 
+## Coding Activity
 
+<a href="https://wakatime.com/badge/user/123e4bd5-09da-4250-b05c-75aef9ff3d0b"><img src="https://wakatime.com/badge/user/123e4bd5-09da-4250-b05c-75aef9ff3d0b.svg" alt="Coding Time"></a>
+
+<img src="https://wakatime.com/share/@sidramwaseem/07881efa-9989-42d5-b5d3-2ebb1198a9e2.svg" />
 
 ## Visitor's Count
 <img src="https://profile-counter.glitch.me/sidramwaseem/count.svg" />
