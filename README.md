@@ -71,4 +71,4 @@
 ## Visitor's Count 
 
 <img src="https://profile-counter.glitch.me/sidramwaseem/count.svg" />
-<h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
+<h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
