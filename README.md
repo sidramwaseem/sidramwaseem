@@ -64,8 +64,9 @@
 ## Coding Activity
 
 <a href="https://wakatime.com/badge/user/123e4bd5-09da-4250-b05c-75aef9ff3d0b"><img src="https://wakatime.com/badge/user/123e4bd5-09da-4250-b05c-75aef9ff3d0b.svg" alt="Coding Time"></a>
-
-<img src="https://wakatime.com/share/@sidramwaseem/07881efa-9989-42d5-b5d3-2ebb1198a9e2.svg" />
+<p align="center">
+<img src="https://wakatime.com/share/@sidramwaseem/5ff9ecec-3fe3-4de8-9cad-c5976271e097.svg" width="500"/>
+  </p>
 
 ## Visitor's Count
 <img src="https://profile-counter.glitch.me/sidramwaseem/count.svg" />
