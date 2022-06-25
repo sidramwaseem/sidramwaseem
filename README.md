@@ -50,7 +50,7 @@
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=15072792&theme=dark" height="250">
   </p>
 
-# GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <p>
@@ -62,13 +62,13 @@
 </div>
 
 ## Coding Activity
-
-<a href="https://wakatime.com/badge/user/123e4bd5-09da-4250-b05c-75aef9ff3d0b"><img src="https://wakatime.com/badge/user/123e4bd5-09da-4250-b05c-75aef9ff3d0b.svg" alt="Coding Time"></a>
-<p align="center">
-<img src="https://wakatime.com/share/@sidramwaseem/5ff9ecec-3fe3-4de8-9cad-c5976271e097.svg" width="500"/>
-  </p>
+<p align ="center">
+<img src="https://wakatime.com/share/@sidramwaseem/5ff9ecec-3fe3-4de8-9cad-c5976271e097.svg" width="450" align="left"/>
+<img src="https://wakatime.com/share/@sidramwaseem/c79ad0ed-c072-4732-98b0-5ce1b8cabddf.svg" width="450" align="right"/>
+</p>
 
 ## Visitor's Count
+
 <img src="https://profile-counter.glitch.me/sidramwaseem/count.svg" />
 
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
