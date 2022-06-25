@@ -62,13 +62,13 @@
 </div>
 
 ## Coding Activity
+
 <p align ="center">
-<img src="https://wakatime.com/share/@sidramwaseem/5ff9ecec-3fe3-4de8-9cad-c5976271e097.svg" width="450" align="left"/>
-<img src="https://wakatime.com/share/@sidramwaseem/c79ad0ed-c072-4732-98b0-5ce1b8cabddf.svg" width="450" align="right"/>
+<img src="https://wakatime.com/share/@sidramwaseem/5ff9ecec-3fe3-4de8-9cad-c5976271e097.svg" width="470"/>
+<img src="https://wakatime.com/share/@sidramwaseem/c79ad0ed-c072-4732-98b0-5ce1b8cabddf.svg" width="470"/>
 </p>
 
-## Visitor's Count
+## Visitor's Count 
 
 <img src="https://profile-counter.glitch.me/sidramwaseem/count.svg" />
-
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
