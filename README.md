@@ -62,11 +62,11 @@
 </div>
 
 ## Coding Activity
-
 <p align ="center">
 <img src="https://wakatime.com/share/@sidramwaseem/5ff9ecec-3fe3-4de8-9cad-c5976271e097.svg" width="470"/>
 <img src="https://wakatime.com/share/@sidramwaseem/c79ad0ed-c072-4732-98b0-5ce1b8cabddf.svg" width="470"/>
 </p>
+<a href="https://wakatime.com/@123e4bd5-09da-4250-b05c-75aef9ff3d0b"><img src="https://wakatime.com/badge/user/123e4bd5-09da-4250-b05c-75aef9ff3d0b.svg" alt="Total time coded since Jun 25 2022" /></a>
 
 ## Visitor's Count 
 
