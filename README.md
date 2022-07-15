@@ -63,8 +63,8 @@
 
 ## Coding Activity
 <p align ="center">
-<img src="https://wakatime.com/share/@sidramwaseem/a570599b-1c06-483b-8d19-e429091c441e.svg" width="420"/>
-<img src="https://wakatime.com/share/@sidramwaseem/c51f9fb7-ceaf-4a21-baf7-83deb31d627e.svg" width="420"/>
+<img src="https://wakatime.com/share/@sidramwaseem/da2e845e-65db-4184-a326-5c4d53c0ab1a.svg" width="420"/>
+<img src="https://wakatime.com/share/@sidramwaseem/3f15e26d-ef0a-4760-8c02-c1a914359f88.svg" width="420"/>
 </p>
 <a href="https://wakatime.com/@123e4bd5-09da-4250-b05c-75aef9ff3d0b"><img src="https://wakatime.com/badge/user/123e4bd5-09da-4250-b05c-75aef9ff3d0b.svg" alt="Total time coded since Jun 25 2022" /></a>
 
