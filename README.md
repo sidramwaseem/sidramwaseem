@@ -14,7 +14,6 @@
     - Metaverse
     - Game development
     - Cloud Computing
-
 </div>
 
 ## Find me at:
