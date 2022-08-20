@@ -9,7 +9,7 @@
   - My interests revolve around Web development and Application development.
   - 2022 Goals: Be proficient in React development + get started with App development
   - Random fact: I doodle (A LOT!).✍🏻
-  - Some other tech areas I find fascinating:✨
+  - Some other tech areas I find fascinating:
     - Virtual/Augmented Reality
     - Metaverse
     - Game development
