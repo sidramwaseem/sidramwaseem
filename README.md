@@ -10,6 +10,7 @@
   - 2022 Goals: Be proficient in React development + get started with App development
   - Random fact: I doodle (A LOT!).
   - Some other tech areas I find fascinating:
+    - Full Stack Development
     - Virtual/Augmented Reality
     - Metaverse
     - Game development
