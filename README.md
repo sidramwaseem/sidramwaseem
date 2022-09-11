@@ -13,7 +13,6 @@
     - Full Stack Development
     - Virtual/Augmented Reality
     - Metaverse
-    - Game development
     - Cloud Computing
 </div>
 
