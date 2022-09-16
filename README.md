@@ -11,7 +11,6 @@
   - Random fact: I doodle (A LOT!).
   - Some other tech areas I find fascinating:
     - Full Stack Development
-    - Virtual/Augmented Reality
     - Metaverse
     - Cloud Computing
 </div>
