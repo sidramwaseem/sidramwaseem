@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Sidra - Undergrad Software Engineer 💻</h1>
+<h1 align="center"> Hi there, I'm Sidra - Undergrad Software Engineer💻</h1>
 
 
 <img src="./img/codePic.jpg" align="right" width="285px"/>
