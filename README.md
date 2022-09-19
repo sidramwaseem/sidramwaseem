@@ -7,7 +7,7 @@
 
   - I’m currently learning React.
   - My interests revolve around Web development and Application development.
-  - 2022 Goals: Be proficient in React development + go for MERN Stack Development
+  - 2022 Goals: Be proficient in React development + go for MERN Stack Development.
   - Random fact: I doodle (A LOT!).
   - Some other tech areas I find fascinating:
     - Full Stack Development
