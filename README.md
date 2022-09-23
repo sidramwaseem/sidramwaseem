@@ -1,5 +1,3 @@
-<img src="./assets/Banner.png"/>
-
 <h1 align="center"> Hi there, I'm Sidra - Undergrad Software Engineer💻</h1>
 
 
