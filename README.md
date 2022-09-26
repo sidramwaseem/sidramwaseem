@@ -20,7 +20,7 @@
 
 
 <img src="./Assets/toolshead.png" alt="Languages and tools heading"/>
-
+<hr>
 <img src="./Assets/tools.png">
 
 ## Stackoverflow Reputation
