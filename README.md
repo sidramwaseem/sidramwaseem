@@ -6,16 +6,9 @@
 <img src="./Assets/coding.png" height="400px" align="center"/>
 </div>
 
-<img src="./assets/codePic.jpg" align="right" width="285px"/>
-
-<div align="left">
-
-- I’m currently learning React.
-- My interests revolve around Web development and Application development.
-- 2022 Goals: Be proficient in React development + go for MERN Stack Development.
-- Random fact: I doodle (A LOT!).
-- Some other tech areas I find fascinating: - Full Stack Development - Metaverse - Cloud Computing
-</div>
+<a align="center">
+![](https://komarev.com/ghpvc/?username=sidramwaseem&color=CA786D&label=Profile+Views)
+</a>
 
 ## Find me at:
 
