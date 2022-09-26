@@ -6,7 +6,6 @@
 <img src="./Assets/coding.png" height="400px" align="center"/>
 </div>
 
-
 ![profile Views](https://komarev.com/ghpvc/?username=sidramwaseem&color=CA786D&label=Profile+Views)
 
 <h1 align="center"> Find me at: </h1>
@@ -34,7 +33,9 @@ A passionate and determined developer who's on a journey to be at the top of her
 
 <p align="center">Fingers crossed for me to inspire more people along my way!</p>
 
-<img src="./Assets/readingchai.png" alt="reading img" />
+<div align="center">
+<img src="./Assets/readingchai.png" alt="reading img" align="center" />
+</div>
 
 <hr>
 <h1 align="center> Stackoverflow Reputation </h1>
