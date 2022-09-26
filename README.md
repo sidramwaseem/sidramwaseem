@@ -18,7 +18,7 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/15072792/sidramwaseem)](https://stackoverflow.com/users/15072792/sidramwaseem)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sidraw24@gmail.com)](mailto:sidraw24@gmail.com)
 
-
+<hr>
 <img src="./Assets/toolshead.png" alt="Languages and tools heading"/>
 <hr>
 <img src="./Assets/tools.png">
