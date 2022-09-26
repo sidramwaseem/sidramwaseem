@@ -62,7 +62,7 @@ A passionate and determined developer who's on a journey to be at the top of her
 <img src="https://wakatime.com/share/@sidramwaseem/1aee8ca4-29e1-4e5f-ae53-7f67517b275b.png" width="420"/>
 
 </p>
-<a href="https://wakatime.com/@123e4bd5-09da-4250-b05c-75aef9ff3d0b"><img src="https://wakatime.com/badge/user/123e4bd5-09da-4250-b05c-75aef9ff3d0b.svg" alt="Total time coded since Jun 25 2022" /></a>
+<a href="https://wakatime.com/@123e4bd5-09da-4250-b05c-75aef9ff3d0b"><img src="https://wakatime.com/badge/user/123e4bd5-09da-4250-b05c-75aef9ff3d0b.svg&color=CA786D" alt="Total time coded since Jun 25 2022" /></a>
 <hr>
 
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
