@@ -2,7 +2,8 @@
 
 <img src="./Assets/nameinfo.png"/>
 
-<h1 align="center"> Hi there, I'm Sidra - Undergrad Software Engineer💻</h1>
+
+<img src="./Assets/coding.png"/>
 
 
 <img src="./assets/codePic.jpg" align="right" width="285px"/>
