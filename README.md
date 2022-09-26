@@ -6,9 +6,8 @@
 <img src="./Assets/coding.png" height="400px" align="center"/>
 </div>
 
-<div align="center">
-     ![profile Views](https://komarev.com/ghpvc/?username=sidramwaseem&color=CA786D&label=Profile+Views)
-</div>
+
+![profile Views](https://komarev.com/ghpvc/?username=sidramwaseem&color=CA786D&label=Profile+Views)
 
 
 ## Find me at:
