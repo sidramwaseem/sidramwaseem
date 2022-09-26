@@ -6,9 +6,10 @@
 <img src="./Assets/coding.png" height="400px" align="center"/>
 </div>
 
-<a align="center">
-![](https://komarev.com/ghpvc/?username=sidramwaseem&color=CA786D&label=Profile+Views)
-</a>
+<div align="center">
+     ![profile Views](https://komarev.com/ghpvc/?username=sidramwaseem&color=CA786D&label=Profile+Views)
+</div>
+
 
 ## Find me at:
 
