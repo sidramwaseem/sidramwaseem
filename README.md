@@ -2,26 +2,24 @@
 
 <img src="./Assets/nameinfo.png"/>
 
-
+<div align="center">
 <img src="./Assets/coding.png" height="400px" align="center"/>
-
+</div>
 
 <img src="./assets/codePic.jpg" align="right" width="285px"/>
 
 <div align="left">
 
-  - I’m currently learning React.
-  - My interests revolve around Web development and Application development.
-  - 2022 Goals: Be proficient in React development + go for MERN Stack Development.
-  - Random fact: I doodle (A LOT!).
-  - Some other tech areas I find fascinating:
-    - Full Stack Development
-    - Metaverse
-    - Cloud Computing
+- I’m currently learning React.
+- My interests revolve around Web development and Application development.
+- 2022 Goals: Be proficient in React development + go for MERN Stack Development.
+- Random fact: I doodle (A LOT!).
+- Some other tech areas I find fascinating: - Full Stack Development - Metaverse - Cloud Computing
 </div>
 
 ## Find me at:
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/sidramwaseem/)](https://github.com/sidramwaseem/) 
+
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/sidramwaseem/)](https://github.com/sidramwaseem/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sidramwaseem/)](https://www.linkedin.com/in/sidramwaseem)
 [![Twitter Badge](https://img.shields.io/badge/-twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/sidramwaseem/)](https://twitter.com/sidramwaseem)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/sidramwaseem)](https://www.hackerrank.com/sidramwaseem)
@@ -47,7 +45,7 @@
 <br />
 <br />
 
-## Stackoverflow Reputation 
+## Stackoverflow Reputation
 
 <p align="center">
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=15072792&theme=dark" height="250">
@@ -65,13 +63,14 @@
 </div>
 
 ## Coding Activity
+
 <p align ="center">
 <img src="https://wakatime.com/share/@sidramwaseem/da2e845e-65db-4184-a326-5c4d53c0ab1a.svg" width="420"/>
 <img src="https://wakatime.com/share/@sidramwaseem/3f15e26d-ef0a-4760-8c02-c1a914359f88.svg" width="420"/>
 </p>
 <a href="https://wakatime.com/@123e4bd5-09da-4250-b05c-75aef9ff3d0b"><img src="https://wakatime.com/badge/user/123e4bd5-09da-4250-b05c-75aef9ff3d0b.svg" alt="Total time coded since Jun 25 2022" /></a>
 
-## Visitor's Count 
+## Visitor's Count
 
 <img src="https://profile-counter.glitch.me/sidramwaseem/count.svg" />
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
