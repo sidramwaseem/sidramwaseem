@@ -37,7 +37,7 @@ A passionate and determined developer who's on a journey to be at the top of her
 </div>
 <hr>
 
-<h1 align="center> Stackoverflow Reputation </h1>
+<h1 align="center"> Stackoverflow Reputation </h1>
 
 <img align="left" src="./Assets/girl.png" alt="presentation">
 <p align="right">
