@@ -19,7 +19,6 @@
 
 <hr>
 <img src="./Assets/toolshead.png" alt="Languages and tools heading"/>
-<hr>
 <img src="./Assets/tools.png">
 <hr>
 
@@ -36,8 +35,8 @@ A passionate and determined developer who's on a journey to be at the top of her
 <div align="center">
 <img src="./Assets/readingchai.png" alt="reading img" align="center" />
 </div>
-
 <hr>
+
 <h1 align="center> Stackoverflow Reputation </h1>
 
 <p align="center">
