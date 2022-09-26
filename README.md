@@ -47,15 +47,15 @@ A passionate and determined developer who's on a journey to be at the top of her
 </div>
 <hr>
 
-## GitHub Statistics
+<h1 align="center"> GitHub Statistics </h1>
 
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidramwaseem&theme=gruvbox&background=CA786D&text_color=000000&title_color=000000&icon_color=FFE400&date_format=M%20j%5B%2C%20Y%5D" alt="sidramwaseem" width="400px"/>
   <img alt="sidramwaseem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sidramwaseem&theme=gruvbox&show_icons=true&title_color=000000&icon_color=FFE400&bg_color=CA786D&text_color=000000" width="400px" />
   <img src="https://activity-graph.herokuapp.com/graph?username=sidramwaseem&theme=gruvbox&show_icons=true&hide_border=false&title_color=000000&icon_color=000000&bg_color=CA786D&text_color=000000&border_color=0c1a25" width="100%"/>
 </div>
-
-## Coding Activity
+<hr>
+<h1 align="center">Coding Activity</h1>
 
 <p align ="center">
 <img src="https://wakatime.com/share/@sidramwaseem/a7dd9fca-9422-4fc6-b60a-754f56e33159.png" width="420" />
@@ -63,8 +63,6 @@ A passionate and determined developer who's on a journey to be at the top of her
 
 </p>
 <a href="https://wakatime.com/@123e4bd5-09da-4250-b05c-75aef9ff3d0b"><img src="https://wakatime.com/badge/user/123e4bd5-09da-4250-b05c-75aef9ff3d0b.svg" alt="Total time coded since Jun 25 2022" /></a>
+<hr>
 
-## Visitor's Count
-
-<img src="https://profile-counter.glitch.me/sidramwaseem/count.svg" />
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
