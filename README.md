@@ -1,3 +1,7 @@
+<img src="./Assets/Banner.png"/>
+
+<img src="./Assets/nameinfo.png"/>
+
 <h1 align="center"> Hi there, I'm Sidra - Undergrad Software Engineer💻</h1>
 
 
