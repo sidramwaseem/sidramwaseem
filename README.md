@@ -3,7 +3,7 @@
 <img src="./Assets/nameinfo.png"/>
 
 
-<img src="./Assets/coding.png" height="400px"/>
+<img src="./Assets/coding.png" height="400px" align="center"/>
 
 
 <img src="./assets/codePic.jpg" align="right" width="285px"/>
