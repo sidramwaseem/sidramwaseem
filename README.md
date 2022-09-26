@@ -45,6 +45,7 @@ A passionate and determined developer who's on a journey to be at the top of her
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=15072792&theme=dark" height="250">
   </p>
 </div>
+<hr>
 
 ## GitHub Statistics
 
