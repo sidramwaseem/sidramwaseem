@@ -52,7 +52,7 @@ A passionate and determined developer who's on a journey to be at the top of her
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidramwaseem&theme=gruvbox&background=CA786D&text_color=000000&title_color=000000&icon_color=FFE400&date_format=M%20j%5B%2C%20Y%5D" alt="sidramwaseem" width="400px"/>
   <img alt="sidramwaseem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sidramwaseem&theme=gruvbox&show_icons=true&title_color=000000&icon_color=FFE400&bg_color=CA786D&text_color=000000" width="400px" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=sidramwaseem&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=sidramwaseem&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=CA786D&text_color=000000&border_color=0c1a25" width="100%"/>
 </div>
 
 ## Coding Activity
