@@ -58,8 +58,9 @@ A passionate and determined developer who's on a journey to be at the top of her
 ## Coding Activity
 
 <p align ="center">
-<img src="https://wakatime.com/share/@sidramwaseem/da2e845e-65db-4184-a326-5c4d53c0ab1a.svg" width="420"/>
-<img src="https://wakatime.com/share/@sidramwaseem/3f15e26d-ef0a-4760-8c02-c1a914359f88.svg" width="420"/>
+<img src="https://wakatime.com/share/@sidramwaseem/a7dd9fca-9422-4fc6-b60a-754f56e33159.png" width="420" />
+<img src="https://wakatime.com/share/@sidramwaseem/1aee8ca4-29e1-4e5f-ae53-7f67517b275b.png" width="420"/>
+
 </p>
 <a href="https://wakatime.com/@123e4bd5-09da-4250-b05c-75aef9ff3d0b"><img src="https://wakatime.com/badge/user/123e4bd5-09da-4250-b05c-75aef9ff3d0b.svg" alt="Total time coded since Jun 25 2022" /></a>
 
