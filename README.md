@@ -40,11 +40,12 @@ A passionate and determined developer who's on a journey to be at the top of her
 <h1 align="center"> Stackoverflow Reputation </h1>
 
 <div>
-<img align="left" src="./Assets/reading.png" alt="presentation" width="400px">
+<img align="left" src="./Assets/reading.png" alt="presentation" width="380px">
 <p align="center">
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=15072792&theme=dark" height="250">
   </p>
 </div>
+
 ## GitHub Statistics
 
 <div align="center">
