@@ -34,7 +34,9 @@ A passionate and determined developer who's on a journey to be at the top of her
 
 <p align="center">Fingers crossed for me to inspire more people along my way!</p>
 
+<img src="./Assets/readingchai.png" alt="reading img" />
 
+<hr>
 <h1 align="center> Stackoverflow Reputation </h1>
 
 <p align="center">
