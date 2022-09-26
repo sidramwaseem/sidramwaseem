@@ -39,7 +39,8 @@ A passionate and determined developer who's on a journey to be at the top of her
 
 <h1 align="center> Stackoverflow Reputation </h1>
 
-<p align="center">
+<img align="left" src="./Assets/girl presenting.png" alt="presentation">
+<p align="right">
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=15072792&theme=dark" height="250">
   </p>
 
