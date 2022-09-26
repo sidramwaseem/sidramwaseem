@@ -1,4 +1,4 @@
-<img src="./Assets/Banner.png"/>
+<img src="./Assets/banner.png"/>
 
 <img src="./Assets/nameinfo.png"/>
 
