@@ -1,4 +1,4 @@
-<img width="100%" src="./Assets/Sidra Waseem.png"/>
+<img width="100%" src="./Assets/Banner.png"/>
 
 
 
