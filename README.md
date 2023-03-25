@@ -1,12 +1,12 @@
-<img src="./Assets/banner.png"/>
+<img width="100%" src="./Assets/Sidra Waseem.png"/>
 
-<img src="./Assets/nameinfo.png"/>
+
 
 <div align="center">
-<img src="./Assets/coding.png" height="400px" align="center"/>
+<img src="./Assets/girl-coding.png" height="400px" align="center"/>
 </div>
 
-![profile Views](https://komarev.com/ghpvc/?username=sidramwaseem&color=CA786D&label=Profile+Views)
+![profile Views](https://komarev.com/ghpvc/?username=sidramwaseem&color=08A4A7&label=Profile+Views)
 
 <h1 align="center"> Find me at: </h1>
 
