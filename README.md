@@ -73,14 +73,13 @@ A passionate and determined developer who's on a journey to be at the top of her
 <p align="center">Fingers crossed for me to inspire more people along my way!</p>
 
 <div align="center">
-<img src="./Assets/readingchai.png" alt="reading img" align="center" />
+<img src="./Assets/girl-read.png" alt="reading img" align="center" />
 </div>
 <hr>
 
 <h1 align="center"> Stackoverflow Reputation </h1>
 
 <div>
-<img align="left" src="./Assets/reading.png" alt="presentation" width="320px">
 <p align="center">
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=15072792&theme=dark" height="250">
   </p>
