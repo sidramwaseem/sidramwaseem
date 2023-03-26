@@ -1,11 +1,5 @@
 <img width="100%" src="./Assets/Banner.png"/>
 
-
-
-<div align="center">
-<img src="./Assets/girl-coding.png" height="400px" align="center"/>
-</div>
-
 ![profile Views](https://komarev.com/ghpvc/?username=sidramwaseem&color=08A4A7&label=Profile+Views)
 
 <h1 align="center"> Find me at: </h1>
@@ -73,7 +67,7 @@ A passionate and determined developer who's on a journey to be at the top of her
 <p align="center">Fingers crossed for me to inspire more people along my way!</p>
 
 <div align="center">
-<img src="./Assets/girl-read.png" alt="reading img" align="center" />
+<img src="./Assets/girl-coding.png" height="400px" align="center"/>
 </div>
 <hr>
 
